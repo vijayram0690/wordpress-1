@@ -9,6 +9,8 @@ Out-of-the-box Wordpress docker image
 
 
 Usage
+
+Demo---------
 -----
 
 To create the image `tutum/wordpress`, execute the following command on the tutum-docker-wordpress folder:
